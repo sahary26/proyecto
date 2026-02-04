@@ -1,0 +1,233 @@
+{
+    "Tarea": [
+        [
+            "Reparacion de motor",
+            5,
+            [
+                "llave de torque",
+                "juego de llaves",
+                "destornilladores",
+                "martillo de goma",
+                "montador de aro"
+            ]
+        ],
+        [
+            "Reparacion de frenos",
+            3,
+            [
+                "juego de llaves",
+                "destornilladores",
+                "liquido de freno",
+                "pinzas"
+            ]
+        ],
+        [
+            "Reparacion de direccion",
+            4,
+            [
+                "extractores",
+                "llave de torque",
+                "juego de llaves",
+                "martillo",
+                "palanca",
+                "pinzas"
+            ]
+        ],
+        [
+            "Reparacion del aforador",
+            2,
+            [
+                "juego de llaves",
+                "destornilladores",
+                "pinzas",
+                "tape",
+                "multimetro",
+                "martillo",
+                "gasolina"
+            ]
+        ],
+        [
+            "Chapisteria y pintura",
+            7,
+            [
+                "lija",
+                "compresor de aire",
+                "palanca",
+                "pintura",
+                "tape",
+                "silicona",
+                "oxigeno y acetileno"
+            ]
+        ],
+        [
+            "Reparacion del sistema electrico",
+            5,
+            [
+                "multimetro",
+                "manometro",
+                "calibrador",
+                "cautin",
+                "pistola de soldar",
+                "tape",
+                "destornilladores"
+            ]
+        ],
+        [
+            "Esmerilado de tapa",
+            6,
+            [
+                "pasta de esmerilar",
+                "palanca",
+                "gasolina",
+                "maquina de esmerilar",
+                "lija",
+                "destornilladores",
+                "juego de llaves"
+            ]
+        ],
+        [
+            "Calibrado de tapa",
+            6,
+            [
+                "micrometro",
+                "calibrador de pie",
+                "manometro",
+                "llave de torque",
+                "juego de llaves",
+                "destornilladores",
+                "pinzas"
+            ]
+        ],
+        [
+            "Reparacion del sistema de enfriamiento",
+            2,
+            [
+                "juego de llaves",
+                "pinzas",
+                "manometro",
+                "compresor de aire",
+                "silicona"
+            ]
+        ],
+        [
+            "Reparacion de cierres y ventanillas",
+            4,
+            [
+                "destornilladores",
+                "multimetro",
+                "cautin",
+                "tape",
+                "martillo de goma"
+            ]
+        ]
+    ],
+    "Herramientas": [
+        [
+            "llave de torque",
+            3
+        ],
+        [
+            "juego de llaves",
+            4
+        ],
+        [
+            "destornilladores",
+            4
+        ],
+        [
+            "martillo de goma",
+            3
+        ],
+        [
+            "montador de aro",
+            2
+        ],
+        [
+            "liquido de freno",
+            2
+        ],
+        [
+            "pinzas",
+            4
+        ],
+        [
+            "palanca",
+            3
+        ],
+        [
+            "martillo",
+            3
+        ],
+        [
+            "extractores",
+            1
+        ],
+        [
+            "manometro",
+            2
+        ],
+        [
+            "pintura",
+            3
+        ],
+        [
+            "compresor de aire",
+            1
+        ],
+        [
+            "lija",
+            3
+        ],
+        [
+            "oxigeno y acetileno",
+            2
+        ],
+        [
+            "pistola de soldar",
+            2
+        ],
+        [
+            "tape",
+            3
+        ],
+        [
+            "cautin",
+            2
+        ],
+        [
+            "multimetro",
+            2
+        ],
+        [
+            "pasta de esmerilar",
+            2
+        ],
+        [
+            "maquina de esmerilar",
+            1
+        ],
+        [
+            "calibrador",
+            2
+        ],
+        [
+            "micrometro",
+            1
+        ],
+        [
+            "silicona",
+            4
+        ],
+        [
+            "gasolina",
+            3
+        ]
+    ],
+    "Mecanicos": [
+        "Juan",
+        "Jose",
+        "Alberto",
+        "Josefina",
+        "Catalina"
+    ]
+}

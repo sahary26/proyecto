@@ -1,0 +1,4 @@
+Requerimientos:
+Python 3.13.7
+Biliotecas estandar: json, random,copy
+(no requiere instalicion extra)
