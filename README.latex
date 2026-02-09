@@ -14,11 +14,15 @@ El gestionador consta de 6 funciones principales:
     Como antes se explicaba existen turnos preelaborados, pero, que pasa si se desea realizar un trabajo no existente? Para eso se utiliza la funcion "Crear un nuevo servicio". Se debe ingresar el nombre del servicio, su duracion y las herramientas necesarias para su realizacion. Luego se mostrara junto con los servicios preelaborados y se podra agendar un turno para este utilizando la funcion (1).
 3- Eliminar un turno 
     Se elimina un turno previamente agendado utilizando los datos proporcionados por el cliente.
-4- Ver detalles de un turno
+4- Agregar herramienta
+    Posibilita al usuario agregar una cantidad determinada de un tipo de herramienta
+5- Agregar mecanico
+    Posibilita al usuario agregar un mecanico nuevo al taller
+6- Ver detalles de un turno
     Se muestran las caracteristas del turno deseado.(fecha,servicio,duracion,mecanico asignado)
-5- Ver la Agenda
+7- Ver la Agenda
     Se muestran todos los turnos agendados con las caracteristas propias.
-6- Cerrar el programa
+8- Cerrar el programa
     Guarda todos los cambios realizados y termina el programa.
 
 El programa del gestionador cuenta de 5 archivos necesarios:
